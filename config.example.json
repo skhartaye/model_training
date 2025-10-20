@@ -1,0 +1,12 @@
+{
+  "model_path": null,
+  "device": "cpu",
+  "default_confidence": 0.25,
+  "image_size": 640,
+  "supported_formats": [
+    ".jpg",
+    ".jpeg",
+    ".png",
+    ".bmp"
+  ]
+}

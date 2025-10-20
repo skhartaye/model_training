@@ -1,0 +1,10 @@
+# Sample YOLO annotation format
+# Format: <class_id> <x_center> <y_center> <width> <height>
+# All values are normalized (0-1)
+#
+# Example: License plate at center of image
+0 0.5 0.5 0.2 0.1
+#
+# Multiple plates in one image:
+# 0 0.3 0.4 0.15 0.08
+# 0 0.7 0.6 0.18 0.09
